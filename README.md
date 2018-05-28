@@ -11,7 +11,8 @@
      libraries:        Scrapy,pymysql
 
      This scraper was purely  built for research purpose. 
-
+### install pymysql
+`pip3 install pymysql`
 
 [https://www.onlinekhabar.com](https://www.onlinekhabar.com)
 
