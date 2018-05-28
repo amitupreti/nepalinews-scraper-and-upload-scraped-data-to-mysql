@@ -1,8 +1,7 @@
 # nepalinews-scraperand-upload-scraped-data-to-mysql
 
-# nepalinews-web-scraper-and-upload-data-to-firebase
 
-# Welcome to the Nepali-news-Web-Scraper!
+## Welcome to the Nepali-news-Web-Scraper!
 
 ### with this scraper you can scrape every news article from onlinekhabar.com and  upload it to google MySQL database
 
