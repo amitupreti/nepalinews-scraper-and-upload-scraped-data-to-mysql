@@ -10,10 +10,10 @@ import time
 
 
 #defining connection to mysql server
-hostname='sql12.freesqldatabase.com'
-username='sql12240183'
-dbname='sql12240183'
-password='KlxgCcHBlb'
+hostname='yourmysqlhostname'
+username='yourmysqlusername'
+dbname='youmysql database name'
+password='password'
 
 
 #importing pymysql
