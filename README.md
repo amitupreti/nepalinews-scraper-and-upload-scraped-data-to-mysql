@@ -1,4 +1,4 @@
-# nepalinews-scraperand-upload-scraped-data-to-mysql
+# nepalinews-scraper-and-upload-scraped-data-to-mysql
 
 
 ## Welcome to the Nepali-news-Web-Scraper!
