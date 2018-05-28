@@ -8,7 +8,7 @@
 ## Notes:
      Operating System: Linux
      Language:         python3
-     libraries:        Scrapy,,python-firebase 
+     libraries:        Scrapy,pymysql
 
      This scraper was purely  built for research purpose. 
 
