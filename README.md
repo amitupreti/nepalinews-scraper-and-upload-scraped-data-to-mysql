@@ -3,7 +3,7 @@
 
 ## Welcome to the Nepali-news-Web-Scraper!
 
-### with this scraper you can scrape every news article from onlinekhabar.com and  upload it to google MySQL database
+### with this scraper you can scrape every news article from onlinekhabar.com and  upload it to MySQL database
 
 ## Notes:
      Operating System: Linux
