@@ -26,7 +26,8 @@ changed.( the scraping is totally based on CSS)
  1. clone this repository to your computer
  2. Launch terminal
  3. Navigate to the folder with file scrapy.cfg
- 4. `scrapy crawl onlinekhabr -a address="https://onlinekhabar.com/content/news/" 
+ 4. Enter this code in termianl
+     `scrapy crawl onlinekhabr -a address="https://onlinekhabar.com/content/news/" `
 
  This is the sample code
 
